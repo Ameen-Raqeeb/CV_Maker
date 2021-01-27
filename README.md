@@ -19,4 +19,4 @@ Since this is a python program, Make sure you install python and pip.
 
 ### Credits
 
-all the credits goes to [amigoscode](https://twitter.com/amigoscode?lang=en) and [@fadil_iqbal](https://twitter.com/iqlabslk) for inspiring me.
+all the credits goes to [@amigoscode](https://twitter.com/amigoscode?lang=en) and [@fadil_iqbal](https://twitter.com/iqlabslk) for inspiring me.
